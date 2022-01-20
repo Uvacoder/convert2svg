@@ -6,7 +6,7 @@ import * as S from './styled'
 const Header = props => (
     <S.Container>
         <S.WidthLimit>
-            <S.Link href="/">Convert2Svg</S.Link>
+            <S.Link href="/">Convert2Svg - A Simple Image To SVG Vector Converter</S.Link>
 
             <S.Icons>
                 <a href="https://github.com/uvacoder/convert2svg" target="_blank" rel="noopener">
