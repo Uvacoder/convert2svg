@@ -4,7 +4,7 @@ import { gradient, maxWidth } from '../../styles/constants'
 export const Container = styled.header`
     background: ${gradient};
     padding: 20px 0;
-    font-size: 22px;
+    font-size: 28px;
     margin-bottom: 30px;
 `
 export const WidthLimit = styled.div`
